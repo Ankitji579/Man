@@ -3,7 +3,7 @@ public class Main{
     public static void main(String[] args){
         System.out.println("Enter the radius of circle:");
         double pi = 3.14;
-        double rad;
+        double rad;//thisn is
         Scanner sc = new Scanner(System.in);
         rad = sc.nextDouble();
         if (rad ==0){
